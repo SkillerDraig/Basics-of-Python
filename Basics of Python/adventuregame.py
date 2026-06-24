@@ -264,7 +264,7 @@ def main_menu(player):
         elif choice == "2":
             travel(player)
         elif choice == "3":
-            shop(player)
+            shop(player)    
         elif choice == "4":
             save(player)
         elif choice == "5":
