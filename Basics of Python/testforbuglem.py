@@ -18,8 +18,8 @@ elif buglem == "yes":
 
 time.sleep(3)
 
-name = "emir"
-lastname = "karakaya"
+name = "skiller"
+lastname = "draig"
 
 print("first question: what is my full name?")
 answer1 = input("your answer: ")
