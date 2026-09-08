@@ -1,19 +1,19 @@
- # My first python script to test buglem and to test my python skills
+ # My first python script to test friend and to test my python skills
 
 import time
 
 score = 3
 
-print("hello buglem, this is a script to test that buglem is working correctly")
+print("hello friend, this is a script to test that friend is working correctly")
 print("while answering the questions, please never use uppercase letters")
 
 time.sleep(3)
 
-buglem = input("are you ready to start the test? (yes/no): ")
-if buglem != "yes":
+friend = input("are you ready to start the test? (yes/no): ")
+if friend != "yes":
     print("ok, maybe next time")
     exit()
-elif buglem == "yes":
+elif friend == "yes":
     print("great! let's start the test")
 
 time.sleep(3)
