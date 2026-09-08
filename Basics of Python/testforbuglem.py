@@ -31,8 +31,8 @@ else:
 
 time.sleep(3)
 
-fullbirthday = "2010-08-30"
-print("second question: what is my birthday? (format: yyyy-mm-dd)")
+fullbirthday = "08-30"
+print("second question: what is my birthday? (format: mm-dd)")
 answer2 = input("your answer: ")
 if answer2 != fullbirthday:
     print(f"wrong answer, the correct answer is: {fullbirthday}")
