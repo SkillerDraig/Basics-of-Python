@@ -1,0 +1,11 @@
+{
+  "name": "Knight",
+  "hp": 100,
+  "max_hp": 100,
+  "atk": 12,
+  "defense": 5,
+  "gold": 50,
+  "potions": 1,
+  "weapon": null,
+  "location": "village"
+}
